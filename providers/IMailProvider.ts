@@ -7,7 +7,7 @@ interface IAdress {
 export interface IMessege {
     to: IAdress;
     from: IAdress;
-    subjet: string;
+    subject: string;
     body: string;
 }
 

@@ -32,7 +32,6 @@ export class CreateUserUseCase {
             subjet: 'Bem vindo',
             body: 'Voce ja pode fazer login'
 
-
         })
     }
 }
